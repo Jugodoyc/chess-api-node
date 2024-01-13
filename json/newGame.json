@@ -1,0 +1,261 @@
+{
+  "board": [
+    {
+      "piece": "wr",
+      "index": 0
+    },
+    {
+      "piece": "wn",
+      "index": 1
+    },
+    {
+      "piece": "wb",
+      "index": 2
+    },
+    {
+      "piece": "wq",
+      "index": 3
+    },
+    {
+      "piece": "wk",
+      "index": 4
+    },
+    {
+      "piece": "wb",
+      "index": 5
+    },
+    {
+      "piece": "wn",
+      "index": 6
+    },
+    {
+      "piece": "wr",
+      "index": 7
+    },
+    {
+      "piece": "wp",
+      "index": 8
+    },
+    {
+      "piece": "wp",
+      "index": 9
+    },
+    {
+      "piece": "wp",
+      "index": 10
+    },
+    {
+      "piece": "wp",
+      "index": 11
+    },
+    {
+      "piece": "wp",
+      "index": 12
+    },
+    {
+      "piece": "wp",
+      "index": 13
+    },
+    {
+      "piece": "wp",
+      "index": 14
+    },
+    {
+      "piece": "wp",
+      "index": 15
+    },
+    {
+      "piece": null,
+      "index": 16
+    },
+    {
+      "piece": null,
+      "index": 17
+    },
+    {
+      "piece": null,
+      "index": 18
+    },
+    {
+      "piece": null,
+      "index": 19
+    },
+    {
+      "piece": null,
+      "index": 20
+    },
+    {
+      "piece": null,
+      "index": 21
+    },
+    {
+      "piece": null,
+      "index": 22
+    },
+    {
+      "piece": null,
+      "index": 23
+    },
+    {
+      "piece": null,
+      "index": 24
+    },
+    {
+      "piece": null,
+      "index": 25
+    },
+    {
+      "piece": null,
+      "index": 26
+    },
+    {
+      "piece": null,
+      "index": 27
+    },
+    {
+      "piece": null,
+      "index": 28
+    },
+    {
+      "piece": null,
+      "index": 29
+    },
+    {
+      "piece": null,
+      "index": 30
+    },
+    {
+      "piece": null,
+      "index": 31
+    },
+    {
+      "piece": null,
+      "index": 32
+    },
+    {
+      "piece": null,
+      "index": 33
+    },
+    {
+      "piece": null,
+      "index": 34
+    },
+    {
+      "piece": null,
+      "index": 35
+    },
+    {
+      "piece": null,
+      "index": 36
+    },
+    {
+      "piece": null,
+      "index": 37
+    },
+    {
+      "piece": null,
+      "index": 38
+    },
+    {
+      "piece": null,
+      "index": 39
+    },
+    {
+      "piece": null,
+      "index": 40
+    },
+    {
+      "piece": null,
+      "index": 41
+    },
+    {
+      "piece": null,
+      "index": 42
+    },
+    {
+      "piece": null,
+      "index": 43
+    },
+    {
+      "piece": null,
+      "index": 44
+    },
+    {
+      "piece": null,
+      "index": 45
+    },
+    {
+      "piece": null,
+      "index": 46
+    },
+    {
+      "piece": null,
+      "index": 47
+    },
+    {
+      "piece": "bp",
+      "index": 48
+    },
+    {
+      "piece": "bp",
+      "index": 49
+    },
+    {
+      "piece": "bp",
+      "index": 50
+    },
+    {
+      "piece": "bp",
+      "index": 51
+    },
+    {
+      "piece": "bp",
+      "index": 52
+    },
+    {
+      "piece": "bp",
+      "index": 53
+    },
+    {
+      "piece": "bp",
+      "index": 54
+    },
+    {
+      "piece": "bp",
+      "index": 55
+    },
+    {
+      "piece": "br",
+      "index": 56
+    },
+    {
+      "piece": "bn",
+      "index": 57
+    },
+    {
+      "piece": "bb",
+      "index": 58
+    },
+    {
+      "piece": "bq",
+      "index": 59
+    },
+    {
+      "piece": "bk",
+      "index": 60
+    },
+    {
+      "piece": "bb",
+      "index": 61
+    },
+    {
+      "piece": "bn",
+      "index": 62
+    },
+    {
+      "piece": "br",
+      "index": 63
+    }
+  ],
+  "turn": "w"
+}
